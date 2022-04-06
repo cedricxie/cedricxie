@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://www.linkedin.com/in/yuesongxie//">
+  <img align="left" alt="Yuesong's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=yuesong.xie_visitor_badge)   <!--修改Yuesong Xie-->
+<!-- 20220406开始统计visit-->
+<br />
+
+[![Yuessong's github stats](https://github-readme-stats.vercel.app/api?username=cedricxie "![Yuesong's github stats")](https://github.com/cedricxie/) 
+<!--修改Yuesong Xie-->
